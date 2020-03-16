@@ -16,3 +16,7 @@ git add
 git com
 ```
 Burdan bir bağlantıya ulaşabilirsiniz [ERDEM KABADAYI](https://www.youtube.com/channel/UCjLNzxio7YMI57e1ArKHpjA)].
+
+- [x] İşimi tamamladım	
+- [x] Yorumumu gite pushladım 
+- [ ] Evde hiç canım sıkılmıyor
