@@ -13,5 +13,6 @@ Temel git komutları bunlardır:
 ```
 git status
 git add
-git commit
-'''
+git com
+```
+Burdan bir bağlantıya ulaşabilirsiniz [ERDEM KABADAYI](https://www.youtube.com/channel/UCjLNzxio7YMI57e1ArKHpjA)].
