@@ -19,3 +19,4 @@ git push origin master "burda youkarıda yaptığımız faliyeterli GitHub'a pus
 Burdan bir bağlantıya ulaşabilirsiniz [ERDEM KABADAYI](https://www.youtube.com/channel/UCjLNzxio7YMI57e1ArKHpjA)].
 
 
+.
