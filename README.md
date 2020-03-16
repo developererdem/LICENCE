@@ -11,12 +11,11 @@ __bu bold yazmak için çok güzel bir yöntem olabilir__
 
 Temel git komutları bunlardır:
 ```
-git status
-git add
-git com
+git status **olup biteni kontrol etmenizi sağlıyor 
+git add **değiştirilen bir şeyi veya eklemek istediğiniz bir şey olursa add kullnarak eklemenizi sağlıyor**
+git commit yorum demek yourum yapmanı sağlıyor
+git push origin master "burda youkarıda yaptığımız faliyeterli GitHub'a pushlamamızı sağlıyor**
 ```
 Burdan bir bağlantıya ulaşabilirsiniz [ERDEM KABADAYI](https://www.youtube.com/channel/UCjLNzxio7YMI57e1ArKHpjA)].
 
-- [x] İşimi tamamladım	
-- [x] Yorumumu gite pushladım 
-- [ ] Evde hiç canım sıkılmıyor
+
