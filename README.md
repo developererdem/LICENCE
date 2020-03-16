@@ -1,4 +1,4 @@
-# LICENCE
+# Web Development 101
 
 # First Lesson 
 yeniden bunu oluşturmam lazım çünkü bayağı bir karışıklık oldu 
